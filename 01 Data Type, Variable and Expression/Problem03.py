@@ -1,4 +1,4 @@
-a = int(input())
+a = float(input())
 x = 1
 x = (x + a/x) / 2  #1
 x = (x + a/x) / 2  #2
